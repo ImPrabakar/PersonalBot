@@ -1,2 +1,3 @@
-# PersonalBot
-A simple and personal discordbot, free of self-hosting
+# :octocat: PersonalBot - Self-hostable bot
+
+<strong><i>A simple and Personal bot for yoyr server</i></strong>
