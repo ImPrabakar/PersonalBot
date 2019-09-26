@@ -38,8 +38,8 @@ prefix = config.prefix
 bot = commands.Bot(command_prefix=prefix)
 
 initial_extensions = ['cogs.maths',
-                                    'cogs.admin',
-                                    'cogs.moderation']
+                      'cogs.admin',
+                      'cogs.moderation']
 
 if __name__ == '__main__':
 	for extension in initial_extensions:
