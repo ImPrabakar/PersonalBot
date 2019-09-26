@@ -4,7 +4,7 @@
 <hr>
 
 # About
-**PersonalBot** - It is an open source application. This is bot is recommended for personal use. It can do moderation and other functions. This bot is a simple bot and contains various utilities. This bot is very usefull for guild owners, mods to ease their work
+**PersonalBot** - It is an open source application. This is bot is recommended for personal use. It can do moderation and other functions. This bot is a simple bot and contains various utilities. This bot is very usefull for guild owners, mods to ease their work. Thia bot is still under development, updated will occupies more commands. Current version is 0.0.1
 
 This bot is free for all and it will be always free. If you like this project and want to encourge it donate [@Patreon](https://patreon.com/PrabaRock7) => cool features are there check it out now!
 
@@ -45,7 +45,4 @@ class MyCog(commands.Cog):
 def setup(bot): # setup function is important 
   bot.add_cog(MyCog(bot))
 ```
-After Adding your cog go to `main.py` in initial_extension add your cog as "cogs.<cogfilename>" & , (comma) if you add more that one cog,
-  
-## Finalising and Updating
-p
+After Adding your cog go to `main.py` in initial_extension mention your filename in which the code exist, mention the cig name as the filename execpt .py. Wait for few minutes, your cog will be added.
