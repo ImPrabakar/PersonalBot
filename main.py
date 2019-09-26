@@ -67,7 +67,8 @@ async def dice(ctx):
 	"""Rolls a dice"""
 	await ctx.send(f"{ctx.message.author.display_name}, You rolled {randrange(1, 7)}")
 	
-@bot.command()
+@bot.command(hidden=True)
+@commands.is_owner()
 async def activity(ctx, game, status=None):
 	"""Set the custom status"""
 	status = discord.Status[status] if status else discord.Status.online
