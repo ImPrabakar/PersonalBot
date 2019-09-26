@@ -45,4 +45,4 @@ class Maths(commands.Cog):
 		await ctx.send(left / right)
 		
 def setup(bot):
-	bot.add_cog(Mathematics(bot))
+	bot.add_cog(Maths(bot))
