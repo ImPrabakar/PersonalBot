@@ -26,6 +26,7 @@ Click this button, it will redirect you to a webpage, there you have to input yo
 
 ## Adding your own Cog
 If you want to make your own cog, make code, upload on the `cogs` folder.
+
 **Example Of cog**
 
 ```python3
@@ -44,3 +45,7 @@ class MyCog(commands.Cog):
 def setup(bot): # setup function is important 
   bot.add_cog(MyCog(bot))
 ```
+After Adding your cog go to `main.py` in initial_extension add your cog as "cogs.<cogfilename>" & , (comma) if you add more that one cog,
+  
+## Finalising and Updating
+p
