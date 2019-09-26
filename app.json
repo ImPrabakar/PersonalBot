@@ -1,0 +1,15 @@
+{
+  "name": "PersonalBot",
+  "description": "A Simple and personal discord bot for your server!",
+  "repository": "https://github.com/kyb3r/modmail",
+  "env": {
+    "token": {
+      "description": "Your discord bot's token.",
+      "required": true
+    },
+    "prefix": {
+      "description": "Your discord bot prefix",
+      "required": true
+    }
+  }
+}
