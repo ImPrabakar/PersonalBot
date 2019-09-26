@@ -9,3 +9,9 @@
 <li><a href="#contributing">Contributing</a><br>
 
 <img src="https://i.ibb.co/d4xzthX/Pics-Art-09-26-03-44-18.jpg" alt="logo"><br>
+
+<hr>
+
+<a name=about></a><br>
+## About
+**PersonalBot** - Personal bot is a opensource application, made by [Prabàkár](https://imprabakar.github.io/), which ia a multifunctional and simple discord bot for your server. If you need a personal bot, have this.
