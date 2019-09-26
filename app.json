@@ -1,0 +1,15 @@
+{
+	"name": "PersonalBot",
+	"description": "Personal bot for your personal server",
+	"repository": "https://github.com/ImPrabakar/PersonalBot",
+	"env": {
+		"token": {
+			"description": "Your discord bot token",
+			"required": true
+		}
+		"prefix": {
+			"description": "Your discord bot prefix",
+			"required": true
+		}
+	}
+}
