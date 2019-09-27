@@ -96,7 +96,7 @@ async def myinfo(ctx):
 	embed = discord.Embed(title=f"Info about - {ctx.message.author.mention}", color=0xccff33, timestap=datetime.datetime.utcfromtimestamp(1553629094))
 	embed.set_thumbnail(url=ctx.message.author.avatar_url)
 	embed.add_field(name="Id", value=ctx.message.author.id, inline=True)
-	embed.add_field(name="Created on", value=ctx.message.author.created_at.strftim("%a, %#d %B %Y, %I:%M %p UTC"), inline=True)
+	embed.add_field(name="Created on", value=ctx.message.author.created_at.strftime("%a, %#d %B %Y, %I:%M %p UTC"), inline=True)
 	embed.add_field(name=f"Roles ({len(role)})", value=" ".join([role.mention for role in role]), inline=True)
 	embed.add_field(name="Top Role", value=ctx.message.author.top_role.mention, inline=True)
 	await ctx.send(embed=embed)
