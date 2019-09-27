@@ -1,4 +1,5 @@
 <div align="center">
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <img src="https://i.ibb.co/Fbp9GJ9/Pics-Art-09-26-03-44-18.jpg">
 </div>
 <hr>
@@ -59,3 +60,19 @@ Feel free to contribute, an extra hand to support is always welcomed.
 This preoject is licensed under MIT
 
 Copyrights (c) Prabàkár 2019
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://imprabakar.github.io/"><img src="https://avatars3.githubusercontent.com/u/55774504?v=4" width="100px;" alt="Prabàkár"/><br /><sub><b>Prabàkár</b></sub></a><br /><a href="#design-ImPrabakar" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
