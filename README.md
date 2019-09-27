@@ -46,3 +46,16 @@ def setup(bot): # setup function is important
   bot.add_cog(MyCog(bot))
 ```
 After Adding your cog go to `main.py` in initial_extension mention your filename in which the code exist, mention the cig name as the filename execpt .py. Wait for few minutes, your cog will be added.
+
+# Contributing
+Feel free to contribute, an extra hand to support is always welcomed. 
+
+* Find error or add good Commands
+* Create a branch 
+* Commit
+* Open a pull request
+
+# License
+This preoject is licensed under MIT
+
+Copyrights (c) Prabàkár 2019
