@@ -1,5 +1,5 @@
 <div align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+<img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" alt="contributors")
 <img src="https://i.ibb.co/Fbp9GJ9/Pics-Art-09-26-03-44-18.jpg">
 </div>
 <hr>
@@ -55,11 +55,6 @@ Feel free to contribute, an extra hand to support is always welcomed.
 * Create a branch 
 * Commit
 * Open a pull request
-
-# License
-This preoject is licensed under MIT
-
-Copyrights (c) Prabàkár 2019
 
 ## Contributors ✨
 
